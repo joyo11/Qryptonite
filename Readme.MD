@@ -64,7 +64,7 @@ python lwe_implementation.py
    - Quantum-resistant encryption
    - Parameters: n=10, m=20, q=97
 
-## Why LWE is Quantum-Resistant
+## Why Quantum Computers Can't Break LWE
 
 LWE (Learning With Errors) is considered quantum-resistant for several fundamental reasons:
 
