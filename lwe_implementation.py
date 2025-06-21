@@ -45,7 +45,7 @@ def bits_to_text(bits):
     return result
 
 def main():
-    print("LWE Post-Quantum Encryption")
+    print("LWE Post Quantum Encryption")
     print("-------------------------")
     
     n, m, q = 10, 20, 97
